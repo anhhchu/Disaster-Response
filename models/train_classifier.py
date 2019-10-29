@@ -28,8 +28,6 @@ from sklearn.model_selection import GridSearchCV
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report, precision_recall_fscore_support
 
 
-import pickle
-
 def tokenize(text):
     """helper function to process text from message column from dataframe: remove special characters, change text to lower case, etc.
     
