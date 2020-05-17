@@ -1,7 +1,7 @@
 # Disaster Response Pipeline Project
 
 ## Motivation
-This project is part of the requirement for Data Scientist Nanodegree on Udacity to follow a Data Analysis end-to-end process including ETL, Machine Learning and Deployment. 
+Created ETL pipeline in Python to clean, prepare and load data to SQLite; Built NLP and ML Model to classify text from messages and posts to 36 disaster labels with MultiOutput Classifier and deployed working model to WebApp 
 
 ## Project Files
 
